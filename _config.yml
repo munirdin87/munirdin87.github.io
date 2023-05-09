@@ -72,7 +72,7 @@ content:
         quote: >
           about project
         description: | # this will include new lines to allow paragraphs
-        about project 
+         about project 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
