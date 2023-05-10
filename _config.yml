@@ -53,10 +53,10 @@ about_content: | # this will include new lines to allow paragraphs
   Whether it's analyzing large data sets or building predictive models, I love using my expertise to help organizations make data-driven decisions. I am most skilled in: <mark>Deep learning</mark>
   
 content:
-  - title: Projects # Title for the sectiondd
+  -title: Projects # Title for the sectiondd
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      -layout: top-middle
         title: Bone lesion classification with transfer learning
         link: https://github.com/munirdin87/munirdin87.github.io/blob/main/data/final_report.jadikar.pdf
         # link_text: Project Website
@@ -73,7 +73,7 @@ content:
          The results demonstrate that the fine-tuned EfficientNetB7 model achieves high accuracy and F1 scores, effectively reducing FPs and providing a more reliable system for radiologists.
 
 
-  - title: Experience # Title for the section
+  -title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
