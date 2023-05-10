@@ -87,6 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I developed and implemented a classification model with transfer
           learning to accurately classify bone lesions from multiple myeloma.
+          
       - layout: left
         title: The Royal Netherlands Air Force   
         link: https://www.defensie.nl/organisatie/luchtmacht
