@@ -9,7 +9,7 @@ version: 2
 name: Munirdin Jadikar
 title: Data Scientist 
 email: jadikar@gmail.com
-website: https://github.com/munirdin87/
+#website: https://github.com/munirdin87/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -51,9 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hey there! I'm an airman with 5 years of experience in air force information systems. After serving my country, I decided to pursue a career in data science, and I recently earned a master's degree in the field. 
   I'm passionate about working on complex data problems and using my skills to develop machine learning models that solve real-world business problems. 
   Whether it's analyzing large data sets or building predictive models, I love using my expertise to help organizations make data-driven decisions. I am most skilled in: <mark>Deep learning</mark>
-
-
-
+  
 content:
   - title: Projects # Title for the sectiondd
     layout: list # Type of content section (list/text)
