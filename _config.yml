@@ -22,7 +22,7 @@ github_username:  munirdin87
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: munirdin-jadikar
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -59,8 +59,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: https://github.com/munirdin87/bone_lesion_classification
+        title: Bone lesion classification with transfer learning
+        link: https://github.com/munirdin87/munirdin87.github.io/blob/main/data/final_report.jadikar.pdf
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -69,10 +69,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          about project
+ 
         description: | # this will include new lines to allow paragraphs
-         about project 
+         This project focuses on developing a lesion classification model using Deep Convolutional Neural Networks (DCNNs) to distinguish False Positives (FPs) from segmented bone lesion candidates. The study employs transfer learning and utilizes CT scan datasets of patients with multiple myeloma from Elizabeth-Tweesteden (ETZ) hospital. 
+         The results demonstrate that the fine-tuned EfficientNetB7 model achieves high accuracy and F1 scores, effectively reducing FPs and providing a more reliable system for radiologists.
+        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -86,6 +87,34 @@ content:
         description: | # this will include new lines to allow paragraphs
           I developed and implemented a classification model with transfer
           learning to accurately classify bone lesions from multiple myeloma.
+
+      - layout: left
+        title:The Royal Netherlands Air Force  
+        link:https://www.defensie.nl/organisatie/luchtmacht
+        # link_text: boringcompany.com
+        sub_title: Air Force information systems officer
+        caption: June 2020 - September 2021
+
+        description: | # this will include new lines to allow paragraph
+          As an IT specialist, I assessed and monitored the demanding IT system needs of the Air Force bases. 
+          I carefully analyzed the hardware and software requirements of the Royal Netherlands to ensure smooth operations. 
+          Additionally, I took charge of developing and maintaining comprehensive documentation on information management processes and procedures. 
+          This allowed me to streamline operations and ensure efficient management of critical information across the organization.
+          
+       - layout: left
+        title:The Royal Netherlands Air Force  
+        link:https:/https://www.defensie.nl/onderwerpen/materieel/vliegtuigen-en-helikopters/f-35-gevechtsvliegtuig
+        # link_text: boringcompany.com
+        sub_title: F-35 Data Engineer
+        caption: December 2017 - January 2020
+
+        description: | # this will include new lines to allow paragra
+         As a data engineer, my daily tasks involved retrieving data from the database and delving into the fascinating world of maintenance and logistics data of the F-35 aircraft. 
+         I also took responsibility for performing regular database backups, ensuring we were fully prepared for any potential disasters and maintaining the Oracle databases in optimal condition. 
+         Troubleshooting database and web application issues was a regular part of my job, and I enjoyed the challenge of resolving these problems efficiently. 
+         Additionally, I dedicated time to test and maintain the database pipeline architectures, ensuring smooth data flow throughout the system. 
+          
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -94,8 +123,25 @@ content:
         caption: 2021 - 2023
         sub_title: MSc data science
         description: | # this will include new lines to allow paragraphs
-          about master 
-
+          I am proud to hold a master's degree in Data Science and Society from Tilburg University, where I completed a rigorous and comprehensive one-year program, graduating with cum laude honors. 
+          My proficiency in Python, R, and SQL allows me to expertly transform and visualize data, uncovering valuable insights from intricate datasets. 
+          I have a proven track record in building, training, and evaluating machine learning models, consistently selecting the most suitable approaches for specific tasks. 
+          Adhering to the highest ethical standards and EU data privacy regulations, I am adept at translating complex machine learning analyses into practical and actionable solutions. 
+          Additionally, my exceptional communication skills enable me to seamlessly collaborate with professionals and researchers across diverse disciplines.
+   - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Royal Military Academy 
+        caption: 2016 - 2017
+        sub_title: Communications and Information Systems officer 
+        description: | # this will include new lines to allow paragraph
+          Having successfully completed the Short Officer Training at the Royal Military Academy, I have acquired a diverse range of skills essential for military leadership and operations. 
+          Through the program's three modules, I developed a strong foundation in general military training, including weapon handling, first aid, physical fitness, and teamwork.
+          Additionally, I honed my command and leadership abilities, gaining expertise in effective communication, ethical decision-making, and strategic military operations. 
+          The operational module provided me with comprehensive knowledge in areas such as military law, management, and critical thinking, preparing me for the responsibilities of an officer. 
+          With my completion of the specialized technical training, I am equipped with the necessary skills to excel in my first officer role and contribute effectively to military missions and duties.
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
