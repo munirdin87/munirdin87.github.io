@@ -22,7 +22,7 @@ github_username:  munirdin87
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: munirdin-jadikar
+#linkedin_username: munirdin-jadikar
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -30,7 +30,7 @@ linkedin_username: munirdin-jadikar
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
+#additional_links:
 #- title: itsgoingto.be
  # icon: fas fa-globe
   #url: https://www.itsgoingto.be
@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-- content:
+content:
   - title: Projects # Title for the sectiondd
     layout: list # Type of content section (list/text)
     content:
