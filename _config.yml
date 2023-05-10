@@ -87,9 +87,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           I developed and implemented a classification model with transfer
           learning to accurately classify bone lesions from multiple myeloma.
-       - layout: left
-       title:The Royal Netherlands Air Force  
-        link:https://www.defensie.nl/organisatie/luchtmacht
+      - layout: left
+        title: The Royal Netherlands Air Force   
+        link: https://www.defensie.nl/organisatie/luchtmacht
         # link_text: boringcompany.com
         sub_title: Air Force information systems officer
         caption: June 2020 - September 2021
@@ -101,8 +101,8 @@ content:
           This allowed me to streamline operations and ensure efficient management of critical information across the organization.
           
        - layout: left
-        title:The Royal Netherlands Air Force  
-        link:https:/https://www.defensie.nl/onderwerpen/materieel/vliegtuigen-en-helikopters/f-35-gevechtsvliegtuig
+        title: The Royal Netherlands Air Force  
+        link: https:/https://www.defensie.nl/onderwerpen/materieel/vliegtuigen-en-helikopters/f-35-gevechtsvliegtuig
         # link_text: boringcompany.com
         sub_title: F-35 Data Engineer
         caption: December 2017 - January 2020
