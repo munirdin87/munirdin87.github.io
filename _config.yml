@@ -125,9 +125,7 @@ content:
           I have a proven track record in building, training, and evaluating machine learning models, consistently selecting the most suitable approaches for specific tasks. 
           Adhering to the highest ethical standards and EU data privacy regulations, I am adept at translating complex machine learning analyses into practical and actionable solutions. 
           Additionally, my exceptional communication skills enable me to seamlessly collaborate with professionals and researchers across diverse disciplines.
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
         title: The Royal Military Academy 
         caption: 2016 - 2017
@@ -139,13 +137,14 @@ content:
           The operational module provided me with comprehensive knowledge in areas such as military law, management, and critical thinking, preparing me for the responsibilities of an officer. 
           With my completion of the specialized technical training, I am equipped with the necessary skills to excel in my first officer role and contribute effectively to military missions and duties.
       
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-
+      - layout: left
+        title: Amsterdam University of Applied Sciences
+        caption: 2011 - 2016
+        sub_title: BSc Aeronautical Engineering
+        description: | # this will include new lines to allow paragraph
+          I have developed a strong foundation in mathematical modeling and analysis, allowing me to solve complex problems in aerodynamics, propulsion, and structural mechanics. 
+          I possess a thorough understanding of aerospace systems and their components, including aircraft and spacecraft design principles, flight dynamics, and control systems. 
+ 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
