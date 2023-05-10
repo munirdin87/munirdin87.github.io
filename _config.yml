@@ -73,7 +73,8 @@ content:
         description: | # this will include new lines to allow paragraphs
          This project focuses on developing a lesion classification model using Deep Convolutional Neural Networks (DCNNs) to distinguish False Positives (FPs) from segmented bone lesion candidates. The study employs transfer learning and utilizes CT scan datasets of patients with multiple myeloma from Elizabeth-Tweesteden (ETZ) hospital. 
          The results demonstrate that the fine-tuned EfficientNetB7 model achieves high accuracy and F1 scores, effectively reducing FPs and providing a more reliable system for radiologists.
-        
+
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -87,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I developed and implemented a classification model with transfer
           learning to accurately classify bone lesions from multiple myeloma.
-     # - layout: left
+      - layout: left
         title: The Royal Netherlands Air Force   
         link: https://www.defensie.nl/organisatie/luchtmacht
         # link_text: boringcompany.com
