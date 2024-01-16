@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Bone lesion classification with transfer learning
-        link: https://github.com/munirdin87/munirdin87.github.io/blob/main/data/final_report.jadikar.pdf
+        link: https://github.com/munirdin87/munirdin87.github.io/blob/main/data/BNAICBENELEARN_2023_paper_jadikar.pdf
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
